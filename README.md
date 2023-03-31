@@ -65,19 +65,16 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/zvhao" target="blank">
+  <a href="https://www.facebook.com/vanhaohtt/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="zvhao-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/zvhaoOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCkyAFccOTNLHhZ1uzucrzwg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="zvhao-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/zvhao" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="zvhao-linkedin" />
-  </a>
-  <a href="https://instagram.com/zvhao" target="blank">
+  <!-- <a href="https://instagram.com/zvhao" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="zvhao-instagram" />
-  </a>
-  <a href="mailto:zvhao.official@gmail.com" target="top">
+  </a> -->
+  <a href="mailto:nguyenvanhao29102001@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="zvhao-email" />
   </a>
 </div>
